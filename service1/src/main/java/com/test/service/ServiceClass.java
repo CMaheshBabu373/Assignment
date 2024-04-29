@@ -12,9 +12,9 @@ public class ServiceClass {
 	
 	@LogBeforeMethod
 	public String getconcat(Person person) {
-		String response1 = restTemplate.getForObject("http://ec2-13-234-32-188.ap-south-1.compute.amazonaws.com:8080/hello", String.class);
+		String response1 = restTemplate.getForObject("http://ec2-15-206-91-219.ap-south-1.compute.amazonaws.com:8082/hello", String.class);
 		
-		String response2 = restTemplate.postForObject("http://ec2-3-111-218-147.ap-south-1.compute.amazonaws.com:8080/concat", person, String.class);
+		String response2 = restTemplate.postForObject("http://ec2-43-205-231-0.ap-south-1.compute.amazonaws.com:8083/concat", person, String.class);
 		
 		return response1 + " " + response2;
 	}
