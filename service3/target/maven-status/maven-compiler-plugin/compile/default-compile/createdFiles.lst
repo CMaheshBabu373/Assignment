@@ -1,0 +1,5 @@
+com\test\service\Person.class
+com\test\service\Service3Application.class
+com\test\service\LogBeforeMethodAspect.class
+com\test\service\LogBeforeMethod.class
+com\test\service\ServiceController3.class

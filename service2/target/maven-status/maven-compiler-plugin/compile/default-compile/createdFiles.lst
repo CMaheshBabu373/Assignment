@@ -1,0 +1,4 @@
+com\test\service\LogBeforeMethodAspect.class
+com\test\service\ServiceController2.class
+com\test\service\LogBeforeMethod.class
+com\test\service\Service2Application.class
