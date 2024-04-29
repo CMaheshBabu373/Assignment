@@ -1,0 +1,8 @@
+com\test\service\ServiceClass.class
+com\test\service\Person.class
+com\test\service\ServiceoneApplication.class
+com\test\service\LogBeforeMethodAspect.class
+com\test\service\InvalidJsonException.class
+com\test\service\ServiceController1.class
+com\test\service\MyExceptionHandler.class
+com\test\service\LogBeforeMethod.class
