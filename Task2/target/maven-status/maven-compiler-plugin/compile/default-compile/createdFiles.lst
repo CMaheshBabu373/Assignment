@@ -1,0 +1,11 @@
+com\test\Task\LogMethodParam.class
+com\test\Task\ProfessionController.class
+com\test\Task\ProfessionRepository.class
+com\test\Task\TaskApplication.class
+com\test\Task\ProfessionService.class
+com\test\Task\LogMethodParamAspect.class
+com\test\Task\NestedClass.class
+com\test\Task\Model.class
+com\test\Task\Profession.class
+com\test\Task\ParentChild.class
+com\test\Task\Relation.class
